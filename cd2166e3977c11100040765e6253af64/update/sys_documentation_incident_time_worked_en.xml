@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="time_worked" label="Time Spent on TIcket" language="en" table="incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>time_worked</element>
+            <help/>
+            <hint/>
+            <label>Time Spent on TIcket</label>
+            <language>en</language>
+            <name>incident</name>
+            <plural>Time Spent on TIckets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jiunhong.lim</sys_created_by>
+            <sys_created_on>2022-07-26 07:30:38</sys_created_on>
+            <sys_id>8da2e2a7977c11100040765e6253af71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Time Spent on TIcket</sys_name>
+            <sys_package display_value="EMPJLIM-ITSM" source="cd2166e3977c11100040765e6253af64">cd2166e3977c11100040765e6253af64</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMPJLIM-ITSM">cd2166e3977c11100040765e6253af64</sys_scope>
+            <sys_update_name>sys_documentation_incident_time_worked_en</sys_update_name>
+            <sys_updated_by>jiunhong.lim</sys_updated_by>
+            <sys_updated_on>2022-07-26 07:30:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
