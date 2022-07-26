@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment">
+    <sn_pipeline_environment action="INSERT_OR_UPDATE">
+        <instance_credential display_value="sn_cicd_spoke.CICD">752a91887740001038e286a2681061fb</instance_credential>
+        <instance_id>empjlim2</instance_id>
+        <instance_type>dev</instance_type>
+        <instance_url>https://empjlim2.service-now.com/</instance_url>
+        <is_controller>false</is_controller>
+        <name>Development-EMPJLIM</name>
+        <sys_class_name>sn_pipeline_environment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 07:54:54</sys_created_on>
+        <sys_id>5b086e6747b451103d482462846d436f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Development-EMPJLIM</sys_name>
+        <sys_package display_value="EMPJLIM-ITSM" source="cd2166e3977c11100040765e6253af64">cd2166e3977c11100040765e6253af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EMPJLIM-ITSM">cd2166e3977c11100040765e6253af64</sys_scope>
+        <sys_update_name>sn_pipeline_environment_5b086e6747b451103d482462846d436f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 07:54:54</sys_updated_on>
+    </sn_pipeline_environment>
+</record_update>
