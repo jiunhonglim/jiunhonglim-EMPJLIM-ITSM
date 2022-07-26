@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="EMPJLIM-ITSM">8f412ee3977c11100040765e6253afb4</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>incident</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>jiunhong.lim</sys_created_by>
+        <sys_created_on>2022-07-26 07:24:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df41eee3977c11100040765e6253af99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EMPJLIM-ITSM" source="cd2166e3977c11100040765e6253af64">cd2166e3977c11100040765e6253af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EMPJLIM-ITSM">cd2166e3977c11100040765e6253af64</sys_scope>
+        <sys_update_name>sys_app_module_df41eee3977c11100040765e6253af99</sys_update_name>
+        <sys_updated_by>jiunhong.lim</sys_updated_by>
+        <sys_updated_on>2022-07-26 07:24:47</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
