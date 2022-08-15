@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Notes" section_id="991f88d20a00064127420bc37824d385" sys_domain="global" table="incident" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>0</position>
+            <sys_created_by>jiunhong.lim</sys_created_by>
+            <sys_created_on>2022-07-26 07:26:43</sys_created_on>
+            <sys_id>a3b12e27977c11100040765e6253af24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="Default view">991f88d20a00064127420bc37824d385</sys_ui_section>
+            <sys_updated_by>jiunhong.lim</sys_updated_by>
+            <sys_updated_on>2022-07-26 07:26:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_worked</element>
+            <position>1</position>
+            <sys_created_by>jiunhong.lim</sys_created_by>
+            <sys_created_on>2022-07-26 07:26:43</sys_created_on>
+            <sys_id>ebb12e27977c11100040765e6253af24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="Default view">991f88d20a00064127420bc37824d385</sys_ui_section>
+            <sys_updated_by>jiunhong.lim</sys_updated_by>
+            <sys_updated_on>2022-07-26 07:26:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>jiunhong.lim</sys_created_by>
+            <sys_created_on>2022-07-26 07:26:43</sys_created_on>
+            <sys_id>efb12e27977c11100040765e6253af24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="Default view">991f88d20a00064127420bc37824d385</sys_ui_section>
+            <sys_updated_by>jiunhong.lim</sys_updated_by>
+            <sys_updated_on>2022-07-26 07:26:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>3</position>
+            <sys_created_by>jiunhong.lim</sys_created_by>
+            <sys_created_on>2022-07-26 07:26:43</sys_created_on>
+            <sys_id>f3b12e27977c11100040765e6253af25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="Default view">991f88d20a00064127420bc37824d385</sys_ui_section>
+            <sys_updated_by>jiunhong.lim</sys_updated_by>
+            <sys_updated_on>2022-07-26 07:26:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>jiunhong.lim</sys_created_by>
+            <sys_created_on>2022-07-26 07:26:44</sys_created_on>
+            <sys_id>f7b12e27977c11100040765e6253af25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="Default view">991f88d20a00064127420bc37824d385</sys_ui_section>
+            <sys_updated_by>jiunhong.lim</sys_updated_by>
+            <sys_updated_on>2022-07-26 07:26:44</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>5</position>
+            <sys_created_by>jiunhong.lim</sys_created_by>
+            <sys_created_on>2022-07-26 07:26:44</sys_created_on>
+            <sys_id>fbb12e27977c11100040765e6253af25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="Default view">991f88d20a00064127420bc37824d385</sys_ui_section>
+            <sys_updated_by>jiunhong.lim</sys_updated_by>
+            <sys_updated_on>2022-07-26 07:26:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>6</position>
+            <sys_created_by>jiunhong.lim</sys_created_by>
+            <sys_created_on>2022-07-26 07:26:44</sys_created_on>
+            <sys_id>ffb12e27977c11100040765e6253af25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="Default view">991f88d20a00064127420bc37824d385</sys_ui_section>
+            <sys_updated_by>jiunhong.lim</sys_updated_by>
+            <sys_updated_on>2022-07-26 07:26:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>7</position>
+            <sys_created_by>jiunhong.lim</sys_created_by>
+            <sys_created_on>2022-07-26 07:26:44</sys_created_on>
+            <sys_id>f3b12e27977c11100040765e6253af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="Default view">991f88d20a00064127420bc37824d385</sys_ui_section>
+            <sys_updated_by>jiunhong.lim</sys_updated_by>
+            <sys_updated_on>2022-07-26 07:26:44</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2011-04-27 22:41:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>991f88d20a00064127420bc37824d385</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Upgrade content for 2011 - activated only for new instances" source="upgrade.2011_common_practice">d645e79f64901110a866d1e779b530a0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMPJLIM-ITSM">cd2166e3977c11100040765e6253af64</sys_scope>
+            <sys_update_name>sys_ui_section_991f88d20a00064127420bc37824d385</sys_update_name>
+            <sys_updated_by>jiunhong.lim</sys_updated_by>
+            <sys_updated_on>2022-08-15 02:32:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="EMPJLIM-ITSM">cd2166e3977c11100040765e6253af64</claim_owner_scope>
+        <claim_timestamp>1829f5807d90000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_991f88d20a00064127420bc37824d385</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>EMPJLIM-ITSM</previous_claim_name>
+        <previous_claim_scope>cd2166e3977c11100040765e6253af64</previous_claim_scope>
+        <sys_created_by>jiunhong.lim</sys_created_by>
+        <sys_created_on>2022-08-15 02:32:02</sys_created_on>
+        <sys_id>021e984e875d1550240662c73cbb3536</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jiunhong.lim</sys_updated_by>
+        <sys_updated_on>2022-08-15 02:32:02</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="EMPJLIM-ITSM">cd2166e3977c11100040765e6253af64</claim_owner_scope>
+        <claim_timestamp>1829f5807d80000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_991f88d20a00064127420bc37824d385</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>upgrade.2011_common_practice</previous_claim_name>
+        <previous_claim_scope>upgrade.2011_common_practice</previous_claim_scope>
+        <sys_created_by>jiunhong.lim</sys_created_by>
+        <sys_created_on>2022-08-15 02:32:02</sys_created_on>
+        <sys_id>4a1e984e875d1550240662c73cbb3536</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jiunhong.lim</sys_updated_by>
+        <sys_updated_on>2022-08-15 02:32:02</sys_updated_on>
+    </sys_claim>
+</record_update>
